@@ -1,0 +1,11 @@
+{
+    "name": "random_projection",
+    "types": ["pattern_groups"],
+    "classRef": randomProjectionViz,
+    "keyMap": {
+        "drag": "Zoom on an area (may be vertical or horizontal)",
+        "shift + drag": "Pan",
+        "double click": "Reset zoom"
+    },
+    "desc": "Shows the result of a pattern matching over a time series"
+}
